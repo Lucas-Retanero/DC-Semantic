@@ -41,4 +41,4 @@ Para a construção deste projeto, utilizei as seguintes tecnologias:
 
 O projeto está publicado e pode ser visualizado diretamente no seu navegador através do link abaixo:
 
-**[Clique aqui para ver a Landing Page da DC Comics](https://lucas-retanero.github.io/DC-Semantic/)**
+**<a href="https://lucas-retanero.github.io/DC-Semantic/" target="_blank" rel="noopener noreferrer">Clique aqui para ver a Landing Page da DC Comics</a>**
